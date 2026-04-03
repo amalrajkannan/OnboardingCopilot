@@ -1,0 +1,34 @@
+Locators:
+-------------
+id
+name
+className
+xpath
+tagName
+linkText
+partiallyLinkText
+cssSelector
+
+
+
+<input type="email">
+
+input - Tag Name
+
+Type - Attribute Name
+
+email = Attribute Value
+
+=========================================
+
+WebDriver - I
+
+findElement - Method to find the locator
+By - Abstract class
+===================================
+
+WebElement --- I
+
+sendKeys - m ---------To send/ Pass the values to text boxes
+
+click() --m

@@ -1,0 +1,18 @@
+---->What is Software Testing Life Cycle (STLC)?<----------
+Software Testing Life Cycle (STLC) is a sequence of 
+specific activities conducted during the
+ testing process to ensure software quality goals 
+are met. STLC involves both verification and 
+validation activities. Contrary to popular belief,
+ Software Testing is not just a single/isolate activity, i.e. testing. It consists of a series of activities carried out 
+methodologically to help certify your software product. STLC stands for Software Testing Life Cycle.
+
+
+--->STLC Phases<-------
+There are following six major phases in every Software Testing Life Cycle Model (STLC Model):
+1.Requirement Analysis
+2.Test Planning
+3.Test case development
+4.Test Environment setup
+5.Test Execution
+6.Test Cycle closure

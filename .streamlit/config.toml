@@ -1,0 +1,8 @@
+[client]
+showErrorDetails = false
+
+[browser]
+gatherUsageStats = false
+
+[logger]
+level = "error"

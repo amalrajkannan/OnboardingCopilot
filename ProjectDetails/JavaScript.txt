@@ -1,0 +1,15 @@
+Type Conversion:
+================
+
+lower date type to higher data type
+
+
+Type Casting:
+=============
+
+higher data type to lower data type
+
+
+JavascriptExecutor javascriptRef= (JavascriptExecutor) WebDriverRef;
+
+javascript.executeScript("arguments[0].scollIntoView(true)", WebElementRef)

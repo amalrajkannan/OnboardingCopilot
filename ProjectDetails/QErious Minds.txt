@@ -1,0 +1,13 @@
+Team name is QErious Minds
+
+We are total 5 members in scrum team
+
+Amal is tester
+Harish is senior tester.
+Ragul is BA
+Sudha is Scrum master
+Anitha is PO
+
+We are working in Insurance project in USA names as Travelers.
+
+Amal sleeps in office

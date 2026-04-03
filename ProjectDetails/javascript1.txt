@@ -1,0 +1,64 @@
+JavaScript methods for Passing Values and getting the values
+=============================================================
+
+javaScriptReference.executeScript("arguments[0].setAttribute('value','yourtext')", webelementReference);
+		
+Object obj = javaScriptReference.executeScript("return arguments[0].getAttribute('value')", webelementReference);
+
+Type Casting
+============
+
+String t= (String)obj;
+
+
+JavaScript methods for clicking
+===============================
+
+j.executeScript("arguments[0].click()", webelementReference);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
